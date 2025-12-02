@@ -254,6 +254,12 @@ def load_css():
             font-size: 1rem;
         }
 
+        /* Ensure form labels (e.g., Login / Signup fields) are visible on dark background */
+        .card label, .stTextInput label, .stSelectbox label, .stForm label,
+        form label, label {
+            color: #ffffff !important;
+        }
+
         .stTextInput>div>div>input:focus, .stChatInput>div>textarea:focus {
             border-color: #7c3aed !important;
             box-shadow: 0 0 12px rgba(124, 58, 237, 0.3) !important;
