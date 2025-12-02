@@ -4,3 +4,4 @@ streamlit
 groq
 pymongo
 graphviz
+python-dotenv

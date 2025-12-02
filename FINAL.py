@@ -6,7 +6,15 @@ from datetime import datetime
 import pdfplumber
 from groq import Groq
 import os
-from dotenv import load_dotenv
+
+try:
+    from dotenv import load_dotenv
+except Exception:
+    # If python-dotenv isn't installed in the environment, provide a no-op
+    def load_dotenv(*args, **kwargs):
+        return False
+
+
 import base64
 
 # Load environment variables from .env file
