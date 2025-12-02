@@ -856,7 +856,7 @@ if not st.session_state.logged_in:
                         placeholder="••••••••",
                     )
                     full_name = st.text_input(
-                        "Full Name", key="signup_name", placeholder="John Doe"
+                        "Full Name", key="signup_name", placeholder="Bob"
                     )
 
                     if st.form_submit_button("Sign Up", type="primary"):
@@ -974,6 +974,8 @@ with st.sidebar:
             <li>Answer one question at a time in the chat below.</li>
             <li>Type "Hello" or "Let's Start" to start the interview.</li>
             <li>Say "I don't know" to skip a question.</li>
+            <li>Complete all the questions to get recorded for overall performance.</li>
+            <li>At the end, request feedback to receive a summary.</li>
         </ul>
     </div>
     """,
