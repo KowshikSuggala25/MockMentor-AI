@@ -282,6 +282,19 @@ def load_css():
             opacity: 1 !important;
         }
 
+        /* Typed text color inside card forms (login/signup) for better visibility */
+        .card input,
+        .card textarea,
+        .card .stTextInput>div>div>input,
+        .card .stChatInput>div>textarea {
+            color: #000000 !important;
+        }
+
+        .card .stTextInput>div>div>input:focus,
+        .card .stChatInput>div>textarea:focus {
+            color: #000000 !important;
+        }
+
         /* Ensure form labels (e.g., Login / Signup fields) are visible on dark background */
         .card label, .stTextInput label, .stSelectbox label, .stForm label,
         form label, label {
