@@ -254,6 +254,34 @@ def load_css():
             font-size: 1rem;
         }
 
+        /* Placeholder text color for inputs/textareas (login/signup) */
+        .card input::placeholder,
+        .card textarea::placeholder,
+        .stTextInput>div>div>input::placeholder,
+        .stChatInput>div>textarea::placeholder,
+        input::placeholder,
+        textarea::placeholder {
+            color: #000000 !important;
+            opacity: 1 !important;
+        }
+
+        /* Vendor-prefixed placeholders for broader compatibility */
+        .card input::-webkit-input-placeholder,
+        .card textarea::-webkit-input-placeholder,
+        input::-webkit-input-placeholder,
+        textarea::-webkit-input-placeholder {
+            color: #000000 !important;
+            opacity: 1 !important;
+        }
+
+        .card input:-ms-input-placeholder,
+        .card textarea:-ms-input-placeholder,
+        input:-ms-input-placeholder,
+        textarea:-ms-input-placeholder {
+            color: #000000 !important;
+            opacity: 1 !important;
+        }
+
         /* Ensure form labels (e.g., Login / Signup fields) are visible on dark background */
         .card label, .stTextInput label, .stSelectbox label, .stForm label,
         form label, label {
