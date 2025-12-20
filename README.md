@@ -15,15 +15,15 @@ FastTrackHire is an AI-powered mock interview web application built with **Pytho
 
 - Python 🐍  
 - Streamlit 🌐  
-- LLaMA3-8B-8192 (via Grok) 🧠  
+- LLaMA3.1-8B (via Groq) 🧠  
 - Resume Parsing and Contextual Question Generation 📄
 - Natural Language Processing
   
 ## Architecture Diagram
-![My Project Logo](https://github.com/CharanSuggala26/MockInterviews/blob/main/diagrams/Architecture.png)
+![My Project Logo](https://github.com/KowshikSuggala25/MockMentor-AI/blob/main/diagrams/Architecture.png)
 
 ## Work Flow 
-![My Project Logo](https://github.com/CharanSuggala26/MockInterviews/blob/main/diagrams/Workflow.png)
+![My Project Logo](https://github.com/KowshikSuggala25/MockMentor-AI/blob/main/diagrams/Workflow.png)
 
 
 ## 🚀 How to Run
@@ -31,7 +31,7 @@ FastTrackHire is an AI-powered mock interview web application built with **Pytho
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/MockInterviews.git
+git clone https://github.com/KowshikSuggala25/MockMentor-AI.git
 cd MockInterviews
 ```
 ## 🛠 Installation Instructions
@@ -57,9 +57,8 @@ Place your secrets.toml file in (.streamlit/) folder.
 
 ## 📧 Contact
 
-- 📬 **Email**: [saicharanguptha26@gmail.com](mailto:saicharanguptha26@gmail.com)  
-- 🌐 **Portfolio**: [my-portfolio-lovat-six-79.vercel.app](https://my-portfolio-lovat-six-79.vercel.app/)  
-- 💻 **GitHub**: [github.com/CharanSuggala26](https://github.com/CharanSuggala26)  
-- 🔗 **LinkedIn**: [linkedin.com/in/saicharansuggala](https://www.linkedin.com/in/saicharansuggala/)  
-- 📸 **Instagram**: [instagram.com/suggala_charan](https://www.instagram.com/suggala_charan)
+- 📬 **Email**: [saikowshiksuggala9390@gmail.com](mailto:saikowshiksuggala9390@gmail.com)  
+- 🌐 **Portfolio**: [kowshiksuggala.vercel.app](https://kowshiksuggala.vercel.app/)  
+- 💻 **GitHub**: [github.com/KowshikSuggala25](https://github.com/KowshikSuggala25)  
+- 🔗 **LinkedIn**: [linkedin.com/in/kowshiksuggala25](https://www.linkedin.com/in/kowshiksuggala25/) 
 
