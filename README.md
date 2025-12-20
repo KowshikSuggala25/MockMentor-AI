@@ -41,6 +41,24 @@ cd MockInterviews
 ```bash
 pip install -r requirements.txt
 ```
+
+### 3. Set up environment variables
+
+Create a `.env` file in the root directory by copying the example file:
+
+```bash
+cp .env.example .env
+```
+
+Then edit the `.env` file and add your credentials:
+
+```
+MONGO_URI = "your_mongodb_connection_string_here"
+DB_NAME = "MockInterviews"
+GROQ_API_KEY = "your_groq_api_key_here"
+```
+
+**⚠️ Important:** Never commit your `.env` file to version control!
 ### Requirement.txt
 ```bash
 streamlit
@@ -48,12 +66,10 @@ requests
 python-docx
 pdfplumber
 ```
-### 3. Run the App
+### 4. Run the App
 ```bash
-streamlit run app.py
+streamlit run FINAL.py
 ```
-### Note:
-Place your secrets.toml file in (.streamlit/) folder.
 
 ## 📧 Contact
 
