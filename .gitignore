@@ -45,15 +45,11 @@ venv.bak/
 *.swp
 *.swo
 *~
-.DS_Store
 *.sublime-project
 *.sublime-workspace
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
-# PyCharm
-.idea/
 
 # Testing
 .pytest_cache/
@@ -79,4 +75,3 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
-*.swp
