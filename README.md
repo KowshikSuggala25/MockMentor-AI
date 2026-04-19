@@ -73,9 +73,9 @@ streamlit run FINAL.py
 
 ## 📧 Contact
 
-- 📬 **Email**: [saicharanguptha26@gmail.com](mailto:saicharanguptha26@gmail.com)  
-- 🌐 **Portfolio**: [my-portfolio-lovat-six-79.vercel.app](https://my-portfolio-lovat-six-79.vercel.app/)  
-- 💻 **GitHub**: [github.com/CharanSuggala26](https://github.com/CharanSuggala26)  
-- 🔗 **LinkedIn**: [linkedin.com/in/saicharansuggala](https://www.linkedin.com/in/saicharansuggala/)  
-- 📸 **Instagram**: [instagram.com/suggala_charan](https://www.instagram.com/suggala_charan)
+- 📬 **Email**: [saikowshiksuggala9390@gmail.com](mailto:saikowshiksuggala9390@gmail.com)  
+- 🌐 **Portfolio**: [kowshiksugala.vercel.app](https://kowshiksuggala.vercel.app/)  
+- 💻 **GitHub**: [github.com/KowshikSuggala25](https://github.com/KowshikSuggala25)  
+- 🔗 **LinkedIn**: [linkedin.com/in/kowshiksuggala25](https://www.linkedin.com/in/kowshiksuggala25/)  
+- 📸 **Instagram**: [instagram.com/skmb](https://www.instagram.com/skmb)
 
