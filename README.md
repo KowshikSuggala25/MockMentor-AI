@@ -77,5 +77,5 @@ streamlit run FINAL.py
 - 🌐 **Portfolio**: [kowshiksugala.vercel.app](https://kowshiksuggala.vercel.app/)  
 - 💻 **GitHub**: [github.com/KowshikSuggala25](https://github.com/KowshikSuggala25)  
 - 🔗 **LinkedIn**: [linkedin.com/in/kowshiksuggala25](https://www.linkedin.com/in/kowshiksuggala25/)  
-- 📸 **Instagram**: [instagram.com/skmb](https://www.instagram.com/skmb)
+- 📸 **Instagram**: [instagram.com/skmb_25](https://www.instagram.com/skmb_25)
 
